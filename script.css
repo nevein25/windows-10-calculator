@@ -6,7 +6,7 @@
 }
 
 body {
-
+    /* background: linear-gradient(to right, #1d5699 0%,#2989d8 43%,#8ebfe5 100%); */
     background-image: url("Pics/windows.jpg");
     background-size: 120% 120%;
     background-repeat: no-repeat;
@@ -76,4 +76,3 @@ body {
 .equal {
     background-color: #336389;
 }
-
